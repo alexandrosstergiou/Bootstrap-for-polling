@@ -116,8 +116,7 @@ def nn(data, example):
 ```
 A very basic Nearest Neighbour method that finds the most similar voting intention class in the data based on the new generated example. Returns the new example with the most fitting class found assigned to it.
 
-**The code is written with the aid of a Jupiter notebook and therefore Anaconda needs to be installed in the system as well as
-the previously mentioned libraries. for more information visit:** (http://jupyter.org/)
+**The code is written with the aid of a Python Jupiter notebook** (http://jupyter.org/)
 
 Additionally you can contact me for the full paper written on this project.
 
