@@ -56,7 +56,6 @@ In each stage a condition is used to find if the data is representative of the g
   - **Attributes are found to be equal between the two sets.** This is the ideal situation that we desire. Once reached at this case, a flag is raised which will be validated in the next iteration to find if a satisfactory number of conditions are true for the new generated data.
   - **The characteristics are under-represented**. The final case is that the survey data do not hold adequate data for a feature and therefore, it is required to bootstrap new examples. Some attributes however need to be treated with care, for example to reassure that a person that did not voted does not include a voting party or that an age falls within the age group and is not simply the top or bottom value of the group.
 
-![Alt text](/path/to/img.jpg)
 
 ### Dependencies, Code and Usage
 
