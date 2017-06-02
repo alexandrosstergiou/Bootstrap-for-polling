@@ -119,6 +119,8 @@ A very basic Nearest Neighbour method that finds the most similar voting intenti
 **The code is written with the aid of a Jupiter notebook and therefore Anaconda needs to be installed in the system as well as
 the previously mentioned libraries. for more information visit:** (http://jupyter.org/)
 
+Additionally you can contact me for the full paper written on this project.
+
 License
 ----
 
